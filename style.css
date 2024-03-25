@@ -611,13 +611,18 @@ button, input{
 }
 
 
-.skills[data-content]{
+
+
+
+.skills [data-content]{
   display: none;
 }
+
 
 .skills__active[data-content]{
   display: block;
 }
+
 
 
 
